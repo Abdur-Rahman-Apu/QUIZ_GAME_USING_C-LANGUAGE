@@ -8,7 +8,7 @@ This project is about a simple quiz game.
 ## Features
 
 * Different categories questions
-![Image](screenshot.jpg)
+![Image](quiz1.png)
 
 
 * Display correct answer
