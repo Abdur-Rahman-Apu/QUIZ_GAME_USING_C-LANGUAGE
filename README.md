@@ -12,9 +12,9 @@ This project is about a simple quiz game.
 
 
 * Display correct answer
-![Image](screenshot.jpg)
+![Image](quiz2.png)
 
 
 * Display the final result
 
-![Image](screenshot.jpg)
+![Image](quiz3.png)
