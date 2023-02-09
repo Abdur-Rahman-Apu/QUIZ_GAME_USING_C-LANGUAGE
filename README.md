@@ -17,4 +17,4 @@ This project is about a simple quiz game.
 
 * Display the final result
 
-![Image](quiz3.png)
+![Image](quiz 3.png)
